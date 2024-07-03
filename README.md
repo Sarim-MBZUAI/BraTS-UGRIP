@@ -24,6 +24,10 @@ cd BraTS-UGRIP
 # Create Conda Environment
 conda create BraTS-UGRIP python==3.8
 
+# Activate the conda enviroment
+
+conda activate BraTS-UGRIP
+
 # Install dependencies
 pip install -r requirements.txt
 ```
